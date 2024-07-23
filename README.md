@@ -1,16 +1,16 @@
 # FLL Team 24277 Lego Storage
 
+We have different types of storage that we use for building robots. This github repository will document the overall storage plan. If it helps your team, drop us a not to let us know!
+
 This pdf file is an index of all of our storage. It will be referenced a couple of times below. Try right-clicking and choose to save the file to view it.
 [Storage index](https://github.com/FLL-Team-24277/FLL-Lego-Storage/blob/main/Lego%20Parts%20Bins.pdf)
 
 ## Colored Bins for Building
+These are the bins each of our team members use to build their robots. We like them because they are small enough to not take up a lot of space on a table, and the handles make them easy to carry.
+![Hardware Organizer](https://github.com/FLL-Team-24277/FLL-Lego-Storage/blob/main/Massca%20Hardware%20Organizer.jpg)
+[Amazon link](https://www.amazon.com/gp/product/B07GN29LXD) (Tray size 12"L x 10"W x 2"H)
 
-We have different types of storage that we use for building robots. This github repository will document the overall storage plan. If it helps your team, drop us a not to let us know!
-
-![These are the bins each of our team members use to build their robots](https://github.com/FLL-Team-24277/FLL-Lego-Storage/blob/main/Massca%20Hardware%20Organizer.jpg)
-[Amazon link](https://www.amazon.com/gp/product/B07GN29LXD)
-
-We have eleven bins, each with a different color. In some cases, pieces aren't available in certain colors, so we substitute those pieces with gray ones. Here's what a bin looks like when it is filled. The team member can take this bin to their desk while they are building. There is a list of all of the colors we use in the pdf.
+We have eleven bins, each with a different color. In some cases, pieces aren't available in certain colors, so we substitute those pieces with gray ones (there are no lime green 9-beams, for example. Lego doesn't make them, or they are very rare and expensive). Here's what a bin looks like when it is filled. The team member can take this bin to their desk while they are building. There is a list of all of the colors we use in the pdf.
 
 ![Open](https://github.com/FLL-Team-24277/FLL-Lego-Storage/blob/main/Builder%20Color%20Bin%201.jpg)
 ![Closed](https://github.com/FLL-Team-24277/FLL-Lego-Storage/blob/main/Builder%20Color%20Bin%202.jpg)
@@ -26,7 +26,7 @@ We put extra colored beams in the different bins here, just in case someone need
 
 Next, we have the bins that we use for storing all of the assorted pieces we need to build our robots. Normally these stay on the storage rack, or on a desk that is exclusively for looking through bins. We have sixteen different bins, each storing a different type of piece
 ![KastKing Storage Bin](https://github.com/FLL-Team-24277/FLL-Lego-Storage/blob/main/Kastking%20Tackle%20Box.jpg)
-[Amazon Link](https://www.amazon.com/gp/product/B07JHBQC1G)
+[Amazon Link](https://www.amazon.com/gp/product/B07JHBQC1G) (Tray Size: 14"x8.25"x1.75")
 
 And these are pictures of bin #10
 ![Connector Bin 1](https://github.com/FLL-Team-24277/FLL-Lego-Storage/blob/main/Connector%20Bin%201.jpg)
