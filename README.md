@@ -1,5 +1,6 @@
-# FLL Team 24277 Lego Storage
-How we store our Lego pieces
+## FLL Team 24277 Lego Storage
+
+# Colored Bins for Building
 
 We have different types of storage that we use for building robots. This github repository will document the overall storage plan. If it helps your team, drop us a not to let us know!
 
@@ -17,4 +18,8 @@ As you can see, each bin has all of the beam sizes 3-15, plus the 3x5 and 2x4 li
 ![15 Bin Rack](https://github.com/FLL-Team-24277/FLL-Lego-Storage/blob/main/15%20Bin%20Storage%20Rack%20Organizer.jpg)
 
 We put extra colored beams in the different bins here, just in case someone needs them.
+[Amazon link](https://www.amazon.com/dp/B09FFTTTJD)
 
+# Connectors, axles, gears, etc
+
+Next, we have 
