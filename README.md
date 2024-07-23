@@ -2,7 +2,7 @@
 
 We have different types of storage that we use for building robots. This github repository will document the overall storage plan. If it helps your team, drop us a not to let us know!
 
-This pdf file is an index of all of our storage. It will be referenced a couple of times below. Try right-clicking and choose to save the file to view it.
+This pdf file is an index of all of our storage. It will be referenced a couple of times below. You may want to download the pdf to your computer so you can open it in an app of your choice.
 [Storage index](https://github.com/FLL-Team-24277/FLL-Lego-Storage/blob/main/Lego%20Parts%20Bins.pdf)
 
 ## Colored Bins for Building
