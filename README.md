@@ -32,7 +32,7 @@ And these are pictures of bin #10
 ![Connector Bin 1](https://github.com/FLL-Team-24277/FLL-Lego-Storage/blob/main/Connector%20Bin%201.jpg)
 ![Connector Bin 2](https://github.com/FLL-Team-24277/FLL-Lego-Storage/blob/main/Connector%20Bin%202.jpg)
 
-All of the other bins are basically the same. Just look at the pdf to see what all we have in them. The bins outlined in purple indicate which pieces have "deep storage backup" in other bins as described below.
+All of the other bins are basically the same. Just look at the pdf to see what all we have in them. The bins outlined in purple indicate which pieces have "deep storage backup" in other bins as described below. We looked very carefully at ways to group and segregate the different technic pieces. We basically looked at each connector and noted if it had a regular pin and/or pin hole, and axle pin and/or pin hole. We have bins for each of those: regular pin, regular pin hole, axle pin, and axle pin hole. If a connector had more than one of these features, that connector would actually go in both bins. It's not a perfect solution, but it works. THen we have bins for all of the other pieces that makke sense, such as axles, small wheels, gears, etc.
 
 ## Other Storage
 
